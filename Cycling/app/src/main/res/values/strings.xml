@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cycling</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="hello_blank_fragment">Hello Fragment</string>
+</resources>
